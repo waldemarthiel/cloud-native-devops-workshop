@@ -38,36 +38,6 @@ The content contains several independent modules that cover different aspects of
 + [Create continuous build integration using Oracle Developer Cloud Service and Oracle Application Container Cloud Service](springboot-sample/devcs.accs.ci.md)
 + [Using Eclipse IDE (Oracle Enterprise Pack for Eclipse) with Oracle Developer Cloud Service](oepe/setup.oepe.md)
 
-####Bind Frontend Application running on lightweight container in Oracle Appplication Container Cloud with backend resources running on Java Cloud Service####
-
-+ [Implement new function (REST client) in SpringBoot sample application using Service Bindings to access Oracle Java Cloud Services](devops-bind/README.md)
-
-####Perform basic monitoring of application run inside Application Container Cloud thrugh diagnostic capabilities of Java Mission Control and Java Flight Recorder ####
-
-+ [Monitor and tune SpringBoot application deployed on Oracle Application Container Cloud Service](monitor-tune/README.md)
-
-#### Deploy Java EE application to Oracle Java Cloud Service####
-
-+ [Create Database Cloud Service Instance using user interface](dbcs-create/README.md)
-+ [Create Java Cloud Service Instance using user interface](jcs-create/README.md)
-+ [Prepare Database Cloud Service Instance to store sample application's data](dbcs-prepare/README.md)
-+ [Deploy Java EE sample application to Oracle Java Cloud Service using Admin console](jcs-deploy/README.md)
-
-####Manage Oracle Java Cloud Service using UI and PaaS Service Manager####
-
-+ [Direct access and management of Oracle Java Cloud Service](jcs-direct/README.md)
-+ [Scale-Out Oracle Java Cloud Service using user interface](jcs-scale-ui/README.md)
-+ [Scale-In Oracle Java Cloud Service using PaaS Service Manager (PSM) Command Line Interface (CLI)](jcs-scale-psm/README.md)
-
-####Making Java Cloud Service elasticly sclable through Policy based Auto-scaling####
-
-+ [Oracle Java Cloud Service Policy Based Auto Scaling](jcs-autoscale/README.md)
-
-####Upgrade WebLogic Server 11g (10.3.6) running on premise to 12cR2 with Multitenancy and migrate to Java Cloud Service####
-
-+ [Convert WebLogic 11g domain into the 12cR2 partition using DPCT (Domain to Partition Conversion Tool)](dpct/README.md)
-+ [Move partition from WebLogic Server 12cR2 to Oracle Java Cloud Service](lift-and-shift/README.md)
-
 ####Migrate Weblogic 10.3.6 (on premise) Application to Java Cloud Service with App2Cloud tool ####
 
 + [Migrate Weblogic 10.3.6 (on premise) Application to Java Cloud Service with App2Cloud tool](app-2-cloud/README.md)
